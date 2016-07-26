@@ -122,11 +122,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://github.com/shuaichuan/cdzgit.git" />
         <option value="https://github.com/shuaichuan/" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://github.com/shuaichuan/cdzgit.git" />
         <option value="https://github.com/shuaichuan/" />
       </list>
     </option>
